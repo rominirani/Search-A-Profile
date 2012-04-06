@@ -9,3 +9,7 @@ Employment History.
 Building the Project
 ********************
 This is a Google App Engine project. You will need to import the project into your Eclipse Workspace and add the necessary App Engine JAR files.
+
+Live Bot
+********
+The Search a Profile Bot is currently live. Visit http://searchaprofile.appspot.com for instructions on how to add it to your Google Talk.
